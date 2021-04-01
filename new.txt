@@ -1,3 +1,7 @@
 <?php
 echo "hoa";
+<<<<<<< HEAD
+=======
+echo "tien";
+>>>>>>> hoadev
 ?>
