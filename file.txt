@@ -1,3 +1,9 @@
 hfjdagjvjxbn
 xfgbfcngvbnvb
+<<<<<<< HEAD
 dxvgfcbg
+=======
+dxvgfcbg
+fsdnmfb
+fsdvfh
+>>>>>>> tiendev
